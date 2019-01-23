@@ -1,4 +1,4 @@
-# Computer Architecture Seminar (Graduate Course) @ Hallym University
+## Computer Architecture Seminar (Graduate Course) @ Hallym University
 
 ### 최신 인공지능 기술인 딥러닝의 가속기 구조에 대한 수업 및 프로젝트를 진행합니다.
 
