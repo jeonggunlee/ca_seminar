@@ -1,6 +1,5 @@
 ## Computer Architecture Seminar (Graduate Course) @ Hallym University
-## 컴퓨터 구조 세미나: 한림대학교 컴퓨터공학과 대학원
-## Spring 2019
+## 컴퓨터 구조 세미나: 한림대학교 컴퓨터공학과 대학원, Spring 2019
 
 ### 최신 인공지능 기술인 딥러닝의 가속기 구조(Accelerator Architecture)에 대한 수업 및 프로젝트를 진행합니다.
 
