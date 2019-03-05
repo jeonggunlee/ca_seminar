@@ -32,20 +32,18 @@
 - 1st Week: Introduction to class
 
 - 2nd Week: Basics of Deep Learning
-   - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI): From 6:34
-   - [MIT 6.S191: Convolutional Neural Networks](https://www.youtube.com/watch?v=H-HVZJ7kGI0&index=3&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-   
+   - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI): From 6:34  
    - Student Presentation
       - Dongyoung Kim, ``The Effect of regularization and identity mapping on the performance of activation functions``
       
 - 3rd Week: Running Deep Learning & How the hardware for the accelerator can be optimized.
+   - [MIT 6.S191: Convolutional Neural Networks](https://www.youtube.com/watch?v=H-HVZJ7kGI0&index=3&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
    - [Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
-   - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
    - Student Presentation (2)
       - Yunhee Woo, [End-to-end crowd counting via joint learning local and global count](https://ieeexplore.ieee.org/abstract/document/7532551?fbclid=IwAR1YBIYBuCsJl5tnK704k0YzSpAHeVWAH4Y4YRwVIRBv2P5hvuexn4g3ejk)
 
 - 4th Week: Topic
-   - Video 
+   - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
    - Student Presentation (2)
       - Student 1, 
       - Student 2, 
