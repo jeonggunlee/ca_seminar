@@ -8,7 +8,10 @@
 
 > This class is for learning recent advanced deep learning algorithm and computer system architecture for accelerating the deep learning algorithm. From the half point of the course, each student is expected to conduct an individual project on object detection. Particularly the topic of ``people counting`` or ``crowd counting`` is recommended.
 
-
+## Requirement
+ - Every students have to do paper presentations
+ - Every students have to do class project
+ 
 *  *  *
 ## Weekly Plan
 
