@@ -9,6 +9,8 @@
 - Place : 1219
 
 > This class is for learning recent advanced deep learning algorithm and computer system architecture for accelerating the deep learning algorithm. From the half point of the course, each student is expected to conduct an individual project on object detection. Particularly the topic of ``people counting`` or ``crowd counting`` is recommended.
+>
+> When you choose a paper, you try to select a paper whose idea has been implemented by open source software. So you can test the idea on your machine.
 
 ## Requirement
  - Every students have to do paper presentations
@@ -28,10 +30,50 @@
       
 - 3rd Week: Deep Learning Accelerator Optimizations
    - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
-   - Student Presentation
+   - Student Presentation (2)
       - Yunhee Woo, [End-to-end crowd counting via joint learning local and global count](https://ieeexplore.ieee.org/abstract/document/7532551?fbclid=IwAR1YBIYBuCsJl5tnK704k0YzSpAHeVWAH4Y4YRwVIRBv2P5hvuexn4g3ejk)
-      
-- 6th - 10th Week: Paper Presentation of Deep Learning Accelerator
+
+- 4th Week: Topic
+   - Video 
+   - Student Presentation (2)
+      - Student 1, 
+      - Student 2, 
+
+- 5th Week: Topic
+   - Video 
+   - Student Presentation (2)
+      - Student 1, 
+      - Student 2, 
+
+- 6th Week: Topic
+   - Video 
+   - Student Presentation (2)
+      - Student 1, 
+      - Student 2, 
+
+- 7th Week: Topic
+   - Video 
+   - Student Presentation (2)
+      - Student 1, 
+      - Student 2, 
+
+- 8th Week: Topic
+   - Video 
+   - Student Presentation (2)
+      - Student 1, 
+      - Student 2, 
+
+- 9th Week: Topic
+   - Video 
+   - Student Presentation (2)
+      - Student 1, 
+      - Student 2, 
+
+- 10th Week: Topic
+   - Video 
+   - Student Presentation (2)
+      - Student 1, 
+      - Student 2, 
 
 
 - 11th-14th: Student Project using Deep Learning and its accelerator
@@ -39,6 +81,7 @@
    - You can use Raspberry Pi and Intel **Movidius** Compute Stick for embedded smart vision processing
       - https://www.movidius.com/
       - [Deep Learning with Movidius NCS and Raspberry Pi3B+ (pt.1) VM and NCSDK setup](https://www.youtube.com/watch?v=p8o284gBSqo)
+      
 - 15th: Final Presentation for Your Project
 
 
