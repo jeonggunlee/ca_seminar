@@ -6,7 +6,7 @@
 - Instructor : Prof. Jeong-Gun Lee
    - Email: Jeonggun.Lee@hallym.ac.kr
 
-> This class is for learning recent advanced deep learning algorithm and computer system architecture for accelerating the deep learning algorithm.
+> This class is for learning recent advanced deep learning algorithm and computer system architecture for accelerating the deep learning algorithm. From the half point of the course, each student is expected to conduct an individual project on object detection. Particularly the topic of ``people counting`` or ``crowd counting`` is recommended.
 
 
 *  *  *
