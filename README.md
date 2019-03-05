@@ -12,7 +12,7 @@
 *  *  *
 ## 주차별 계획
 
-- 1주차: 과목 소개 및 계획
+- 1st Week: Introduction to class
 
 - 2주차-5주차: 딥러닝 기초
    - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
