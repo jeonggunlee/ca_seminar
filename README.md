@@ -23,10 +23,11 @@
       
 - 3rd Week: Deep Learning Accelerator Optimizations
    - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
-
-- 6th - 10th Week: Paper Presentation of Deep Learning Accelerator
    - Student Presentation
       - Yunhee Woo, [End-to-end crowd counting via joint learning local and global count](https://ieeexplore.ieee.org/abstract/document/7532551?fbclid=IwAR1YBIYBuCsJl5tnK704k0YzSpAHeVWAH4Y4YRwVIRBv2P5hvuexn4g3ejk)
+      
+- 6th - 10th Week: Paper Presentation of Deep Learning Accelerator
+
 
 - 11th-14th: Student Project using Deep Learning and its accelerator
    - You can use high performance GPU (1080Ti or 2080Ti RTX) for training
