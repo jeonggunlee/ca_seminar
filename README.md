@@ -32,7 +32,8 @@
    - Student Presentation
       - Dongyoung Kim, ``The Effect of regularization and identity mapping on the performance of activation functions``
       
-- 3rd Week: Deep Learning Accelerator Optimizations
+- 3rd Week: Running Deep Learning & How the hardware for the accelerator can be optimized.
+   - [Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
    - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
    - Student Presentation (2)
       - Yunhee Woo, [End-to-end crowd counting via joint learning local and global count](https://ieeexplore.ieee.org/abstract/document/7532551?fbclid=IwAR1YBIYBuCsJl5tnK704k0YzSpAHeVWAH4Y4YRwVIRBv2P5hvuexn4g3ejk)
