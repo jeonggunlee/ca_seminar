@@ -89,6 +89,6 @@
 - 15th: Final Presentation for Your Project
 
 
-*  *  *
+*  *  * 
 ## References
 - [http://eyeriss.mit.edu/tutorial.html](http://www.rle.mit.edu/eems/wp-content/uploads/2017/06/ISCA-2017-Hardware-Architectures-for-DNN-Tutorial.pdf)
