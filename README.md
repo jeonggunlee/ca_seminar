@@ -27,12 +27,12 @@
       - Yunhee Woo, [End-to-end crowd counting via joint learning local and global count](https://ieeexplore.ieee.org/abstract/document/7532551?fbclid=IwAR1YBIYBuCsJl5tnK704k0YzSpAHeVWAH4Y4YRwVIRBv2P5hvuexn4g3ejk)
       - Dongyoung Kim, [?]
 
-- 11주차-14주차: Student Project using Deep Learning and its accelerator
+- 11th-14th: Student Project using Deep Learning and its accelerator
    - You can use high performance GPU (1080Ti or 2080Ti RTX) for training
    - You can use Raspberry Pi and Intel **Movidius** Compute Stick for embedded smart vision processing
       - https://www.movidius.com/
       - [Deep Learning with Movidius NCS and Raspberry Pi3B+ (pt.1) VM and NCSDK setup](https://www.youtube.com/watch?v=p8o284gBSqo)
-- 15주차: Final Presentation for Your Project
+- 15th: Final Presentation for Your Project
 
 
 *  *  *
