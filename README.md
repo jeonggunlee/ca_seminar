@@ -17,6 +17,7 @@
 > and the following youtube.
 >
 >   - https://www.youtube.com/watch?v=u_XOczajfRI
+>   - https://www.youtube.com/watch?v=j2f4QGVSJCk
 >
 > When you choose a paper, you try to select a paper whose idea has been implemented by open source software. So you can test the idea on your machine.
 
