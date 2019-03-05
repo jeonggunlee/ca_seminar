@@ -14,13 +14,15 @@
 
 - 1st Week: Introduction to class
 
-- 2nd -5th Week: Basics of Deep Learning
+- 2nd Week: Basics of Deep Learning
    - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI): From 6:34
    - [MIT 6.S191: Convolutional Neural Networks](https://www.youtube.com/watch?v=H-HVZJ7kGI0&index=3&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
    
    - Student Presentation
-      - Dongyoung Kim, [?]
-
+      - Dongyoung Kim, ``The Effect of regularization and identity mapping on the performance of activation functions``
+      
+- 3rd Week: Deep Learning Accelerator Optimizations
+- [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
 
 - 6th - 10th Week: Paper Presentation of Deep Learning Accelerator
    - Student Presentation
@@ -36,6 +38,5 @@
 
 
 *  *  *
-## 참고자료
+## References
 - [http://eyeriss.mit.edu/tutorial.html](http://www.rle.mit.edu/eems/wp-content/uploads/2017/06/ISCA-2017-Hardware-Architectures-for-DNN-Tutorial.pdf)
-- [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
