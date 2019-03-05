@@ -22,7 +22,7 @@
       - Dongyoung Kim, ``The Effect of regularization and identity mapping on the performance of activation functions``
       
 - 3rd Week: Deep Learning Accelerator Optimizations
-- [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
+   - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
 
 - 6th - 10th Week: Paper Presentation of Deep Learning Accelerator
    - Student Presentation
