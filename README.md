@@ -9,10 +9,11 @@
 - Place : 1219
 
 > This class is for learning recent advanced deep learning algorithm and computer system architecture for accelerating the deep learning algorithm. From the half point of the course, each student is expected to conduct an individual project on object detection. Particularly the topic of ``people counting`` or ``crowd counting`` is recommended.
-> Please check the following githug sites
+> Please check the following Github sites
 >
 >   - https://github.com/search?q=people+counting
 >   - https://github.com/search?q=crowd+counting
+>
 > When you choose a paper, you try to select a paper whose idea has been implemented by open source software. So you can test the idea on your machine.
 
 ## Requirement
