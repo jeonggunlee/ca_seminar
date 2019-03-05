@@ -92,4 +92,5 @@
 
 *  *  * 
 ## References
+- [Stanford Deep Learning Class](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [http://eyeriss.mit.edu/tutorial.html](http://www.rle.mit.edu/eems/wp-content/uploads/2017/06/ISCA-2017-Hardware-Architectures-for-DNN-Tutorial.pdf)
