@@ -13,6 +13,10 @@
 >
 >   - https://github.com/search?q=people+counting
 >   - https://github.com/search?q=crowd+counting
+> 
+> and the following youtube.
+>
+>   - https://www.youtube.com/watch?v=u_XOczajfRI
 >
 > When you choose a paper, you try to select a paper whose idea has been implemented by open source software. So you can test the idea on your machine.
 
