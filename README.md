@@ -40,7 +40,7 @@
    - [MIT 6.S191: Convolutional Neural Networks](https://www.youtube.com/watch?v=H-HVZJ7kGI0&index=3&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
    - [Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
    - Student Presentation (2)
-      - Yunhee Woo, [End-to-end crowd counting via joint learning local and global count](https://ieeexplore.ieee.org/abstract/document/7532551?fbclid=IwAR1YBIYBuCsJl5tnK704k0YzSpAHeVWAH4Y4YRwVIRBv2P5hvuexn4g3ejk)
+      - Yunhee Woo, [End-to-end crowd counting via joint learning local and global count](https://ieeexplore.ieee.org/abstract/document/7532551?fbclid=IwAR1YBIYBuCsJl5tnK704k0YzSpAHeVWAH4Y4YRwVIRBv2P5hvuexn4g3ejk), [End-to-end people detection in crowded scenes](https://arxiv.org/abs/1506.04878)
 
 - 4th Week: Topic
    - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
