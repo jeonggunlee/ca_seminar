@@ -53,7 +53,7 @@
 - 5th Week: Topic
    - Video 
    - Student Presentation (2)
-      - JaeMin Jeong, `Multi-Column Convolutional Neural Network` [paper](https://www.semanticscholar.org/paper/Single-Image-Crowd-Counting-via-Multi-Column-Neural-Zhang-Zhou/427d6d9bc05b07c85fc6b2e52f12132f79a28f6c)
+      - JaeMin Jeong, `Multi-Column Convolutional Neural Network` [[paper](https://www.semanticscholar.org/paper/Single-Image-Crowd-Counting-via-Multi-Column-Neural-Zhang-Zhou/427d6d9bc05b07c85fc6b2e52f12132f79a28f6c)]
       - Student 2, 
 
 - 6th Week: Topic
