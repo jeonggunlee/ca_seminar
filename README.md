@@ -43,10 +43,12 @@
       - Yunhee Woo, [End-to-end crowd counting via joint learning local and global count](https://ieeexplore.ieee.org/abstract/document/7532551?fbclid=IwAR1YBIYBuCsJl5tnK704k0YzSpAHeVWAH4Y4YRwVIRBv2P5hvuexn4g3ejk), [End-to-end people detection in crowded scenes](https://arxiv.org/abs/1506.04878)
 
 - 4th Week: Topic
+   - [Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)](https://www.youtube.com/watch?v=k5c-vg4rjBw)
+   - [TensorFlow Datasets (TF Dev Summit '19)](https://www.youtube.com/watch?v=-nTe44WT0ZI)
    - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
    - Student Presentation (2)
-      - Student 1, 
-      - Student 2, 
+      - Student 1: No Student !
+      - Student 2: No Student !
 
 - 5th Week: Topic
    - Video 
