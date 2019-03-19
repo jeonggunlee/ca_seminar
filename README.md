@@ -57,7 +57,7 @@
 - 6th Week: Topic
    - Video 
    - Student Presentation (2)
-      - Student 1, 
+      - Jinwoo Lee, [Evaluating the Energy Efficiency of Deep Convolutional Neural Networks on CPU and GPU]
       - Student 2, 
 
 - 7th Week: Topic
