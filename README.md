@@ -53,7 +53,7 @@
 - 5th Week: Topic
    - Video 
    - Student Presentation (2)
-      - Student 1, 
+      - JaeMin Jeong, `Multi-Column Convolutional Neural Network`
       - Student 2, 
 
 - 6th Week: Topic
