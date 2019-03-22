@@ -41,6 +41,7 @@
    - [Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
    - Student Presentation (2)
       - Yunhee Woo, [End-to-end crowd counting via joint learning local and global count](https://ieeexplore.ieee.org/abstract/document/7532551?fbclid=IwAR1YBIYBuCsJl5tnK704k0YzSpAHeVWAH4Y4YRwVIRBv2P5hvuexn4g3ejk), [End-to-end people detection in crowded scenes](https://arxiv.org/abs/1506.04878)
+         - [Related Youtube Movie Clip](https://www.youtube.com/watch?v=Nl2fBKxwusQ)
 
 - 4th Week: Topic
    - [Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)](https://www.youtube.com/watch?v=k5c-vg4rjBw)
