@@ -46,16 +46,15 @@
 - 4th Week: Topic
    - [Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)](https://www.youtube.com/watch?v=k5c-vg4rjBw)
    - [TensorFlow Datasets (TF Dev Summit '19)](https://www.youtube.com/watch?v=-nTe44WT0ZI)
-   - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s)
+   - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s) Part I
    - Student Presentation (2)
       - Student 1: No Student !
       - Student 2: No Student !
 
 - 5th Week: Topic
-   - Video 
+   - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s) Part II
    - Student Presentation (2)
       - JaeMin Jeong, `Multi-Column Convolutional Neural Network` [[paper](https://www.semanticscholar.org/paper/Single-Image-Crowd-Counting-via-Multi-Column-Neural-Zhang-Zhou/427d6d9bc05b07c85fc6b2e52f12132f79a28f6c)]
-      - Student 2, 
 
 - 6th Week: Topic
    - Video 
