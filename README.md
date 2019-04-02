@@ -61,7 +61,7 @@
       - JaeMin Jeong, `Multi-Column Convolutional Neural Network` [[paper](https://www.semanticscholar.org/paper/Single-Image-Crowd-Counting-via-Multi-Column-Neural-Zhang-Zhou/427d6d9bc05b07c85fc6b2e52f12132f79a28f6c)]
 
 - 7th Week: Topic
-   - Video 
+   - [C4W1L01 Computer Vision](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) 
    - Student Presentation (2)
       - Student 1, 
       - Student 2, 
