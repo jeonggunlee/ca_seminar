@@ -53,14 +53,12 @@
 
 - 5th Week: Topic
    - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s) Part II
-   - Student Presentation (2)
-      - JaeMin Jeong, `Multi-Column Convolutional Neural Network` [[paper](https://www.semanticscholar.org/paper/Single-Image-Crowd-Counting-via-Multi-Column-Neural-Zhang-Zhou/427d6d9bc05b07c85fc6b2e52f12132f79a28f6c)]
 
 - 6th Week: Topic
-   - Video 
+   - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s) Part III
    - Student Presentation (2)
-      - ''Jinwoo Lee'', [Evaluating the Energy Efficiency of Deep Convolutional Neural Networks on CPU and GPU](https://o365hallym-my.sharepoint.com/:b:/g/personal/m18525_s_hallym_ac_kr/EYmgNqNF5CFOhT-TP2NOHhQBc4Rhzf_55GUriN7HBFLdmw?e=G8ncRz)
-      - Student 2, 
+      - Jinwoo Lee, [Evaluating the Energy Efficiency of Deep Convolutional Neural Networks on CPU and GPU](https://o365hallym-my.sharepoint.com/:b:/g/personal/m18525_s_hallym_ac_kr/EYmgNqNF5CFOhT-TP2NOHhQBc4Rhzf_55GUriN7HBFLdmw?e=G8ncRz)
+      - JaeMin Jeong, `Multi-Column Convolutional Neural Network` [[paper](https://www.semanticscholar.org/paper/Single-Image-Crowd-Counting-via-Multi-Column-Neural-Zhang-Zhou/427d6d9bc05b07c85fc6b2e52f12132f79a28f6c)]
 
 - 7th Week: Topic
    - Video 
