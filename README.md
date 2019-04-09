@@ -29,43 +29,38 @@
 *  *  *
 ## Weekly Plan
 
-- 1st Week: Introduction to class
+- 1st Week (2019-02-26): Introduction to class
 
-- 2nd Week: Basics of Deep Learning
+- 2nd Week (2019-03-05): Basics of Deep Learning
    - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI): From 6:34  
    - Student Presentation
       - Dongyoung Kim, ``The Effect of regularization and identity mapping on the performance of activation functions``
       
-- 3rd Week: Running Deep Learning & How the hardware for the accelerator can be optimized.
+- 3rd Week (2019-03-12): Running Deep Learning & How the hardware for the accelerator can be optimized.
    - [MIT 6.S191: Convolutional Neural Networks](https://www.youtube.com/watch?v=H-HVZJ7kGI0&index=3&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
    - [Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
    - Student Presentation (2)
       - Yunhee Woo, [End-to-end crowd counting via joint learning local and global count](https://ieeexplore.ieee.org/abstract/document/7532551?fbclid=IwAR1YBIYBuCsJl5tnK704k0YzSpAHeVWAH4Y4YRwVIRBv2P5hvuexn4g3ejk), [End-to-end people detection in crowded scenes](https://arxiv.org/abs/1506.04878)
          - [Related Youtube Movie Clip](https://www.youtube.com/watch?v=Nl2fBKxwusQ)
 
-- 4th Week: Topic
+- 4th Week (2019-03-19): Topic
    - [Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)](https://www.youtube.com/watch?v=k5c-vg4rjBw)
    - [TensorFlow Datasets (TF Dev Summit '19)](https://www.youtube.com/watch?v=-nTe44WT0ZI)
    - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s) Part I
-   - Student Presentation (2)
-      - Student 1: No Student !
-      - Student 2: No Student !
 
-- 5th Week: Topic
+- 5th Week (2019-03-26): Topic
    - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s) Part II
 
-- 6th Week: Topic
+- 6th Week (2019-04-02): Topic
    - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&t=25s) Part III
    - Student Presentation (2)
-      - Jinwoo Lee, [Evaluating the Energy Efficiency of Deep Convolutional Neural Networks on CPU and GPU](https://o365hallym-my.sharepoint.com/:b:/g/personal/m18525_s_hallym_ac_kr/EYmgNqNF5CFOhT-TP2NOHhQBc4Rhzf_55GUriN7HBFLdmw?e=G8ncRz)
       - JaeMin Jeong, `Multi-Column Convolutional Neural Network` [[paper](https://www.semanticscholar.org/paper/Single-Image-Crowd-Counting-via-Multi-Column-Neural-Zhang-Zhou/427d6d9bc05b07c85fc6b2e52f12132f79a28f6c)]
 
-- 7th Week: Topic
+- 7th Week (2019-04-09): Topic
    - [C4W1L01 Computer Vision](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) 
    - Student Presentation (2)
-      - Student 1, 
-      - Student 2, 
-
+      - Jinwoo Lee, [Evaluating the Energy Efficiency of Deep Convolutional Neural Networks on CPU and GPU](https://o365hallym-my.sharepoint.com/:b:/g/personal/m18525_s_hallym_ac_kr/EYmgNqNF5CFOhT-TP2NOHhQBc4Rhzf_55GUriN7HBFLdmw?e=G8ncRz)
+      
 - 8th Week: Topic
    - Video 
    - Student Presentation (2)
