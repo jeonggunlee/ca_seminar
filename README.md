@@ -61,11 +61,7 @@
    - Student Presentation (2)
       - Jinwoo Lee, [Evaluating the Energy Efficiency of Deep Convolutional Neural Networks on CPU and GPU](https://o365hallym-my.sharepoint.com/:b:/g/personal/m18525_s_hallym_ac_kr/EYmgNqNF5CFOhT-TP2NOHhQBc4Rhzf_55GUriN7HBFLdmw?e=G8ncRz)
       
-- 8th Week: Topic
-   - Video 
-   - Student Presentation (2)
-      - Student 1, 
-      - Student 2, 
+- 8th Week(2019-04-16): Midterm.
 
 - 9th Week: Topic
    - Video 
