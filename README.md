@@ -72,7 +72,7 @@
 - 10th Week: Topic
    - Video 
    - Student Presentation (2)
-      - Student 1, 
+      - Student 1, DongYoung Kim, 'YOLOv3 : An Incremental Improvement' [[paper](https://arxiv.org/abs/1804.02767)]
       - Student 2, 
 
 
