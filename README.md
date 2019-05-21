@@ -69,21 +69,13 @@
       - Student 1, 
       - Student 2, 
 
-- 10th Week: Topic
-   - Video 
-   - Student Presentation (2)
-      - Student 1, DongYoung Kim, 'YOLOv3 : An Incremental Improvement' [[paper](https://arxiv.org/abs/1804.02767)]
+- 28 May: Week: Topic
+   - Student Presentation (5)
+      - DongYoung Kim, 'YOLOv3 : An Incremental Improvement' [[paper](https://arxiv.org/abs/1804.02767)]
       - Student 2, 
-
-
-- 11th-14th: Student Project using Deep Learning and its accelerator
-   - You can use high performance GPU (1080Ti or 2080Ti RTX) for training
-   - You can use Raspberry Pi and Intel **Movidius** Compute Stick for embedded smart vision processing
-      - https://www.movidius.com/
-      - [Deep Learning with Movidius NCS and Raspberry Pi3B+ (pt.1) VM and NCSDK setup](https://www.youtube.com/watch?v=p8o284gBSqo)
-      
-- 15th: Final Presentation for Your Project
-
+      - Student 3, 
+      - Student 4, 
+      - Student 5,       
 
 *  *  * 
 ## References
