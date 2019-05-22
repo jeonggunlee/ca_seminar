@@ -72,7 +72,7 @@
 - 28 May: Week: Topic
    - Student Presentation (5)
       - DongYoung Kim, 'YOLOv3 : An Incremental Improvement' [[paper](https://arxiv.org/abs/1804.02767)]
-      - Student 2, 
+      - JinWoo Lee, `Convolutional Neural Networks for Sentence Classification` [[paper](https://arxiv.org/pdf/1408.5882v2.pdf)] 
       - Student 3, 
       - Student 4, 
       - Student 5,       
