@@ -73,7 +73,7 @@
    - Student Presentation (5)
       - DongYoung Kim, 'YOLOv3 : An Incremental Improvement' [[paper](https://arxiv.org/abs/1804.02767)]
       - JinWoo Lee, `Convolutional Neural Networks for Sentence Classification` [[paper](https://arxiv.org/pdf/1408.5882v2.pdf)] 
-      - Student 3, 
+      - JaeMin Jeong, `Object as Point`/ [[paper](https://arxiv.org/abs/1904.07850)]
       - Student 4, 
       - Student 5,       
 
